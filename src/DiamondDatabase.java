@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class DiamondDatabase {
+public class DiamondDatabase {
+    private String hell;
 }
