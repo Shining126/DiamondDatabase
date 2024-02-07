@@ -1,3 +1,4 @@
 public class DiamondDatabase {
-    private String hell;
+    public String metaFilePath;
+    public String tablePath;
 }
